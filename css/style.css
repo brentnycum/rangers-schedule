@@ -1,0 +1,136 @@
+div.away {
+	float: left;
+}
+
+div.home {
+	float: right;
+}
+
+div.clearfix {
+	clear: both;
+}
+
+div.logo {
+	height: 64px;
+	width: 64px;
+}
+
+div.ARI {
+	background:url('../img/logo_sprite.png') -64px 0px;
+}
+
+div.ATL {
+	background:url('../img/logo_sprite.png') -64px -64px;
+}
+
+div.BAL {
+	background:url('../img/logo_sprite.png') -64px -128px;
+}
+
+div.BOS {
+	background:url('../img/logo_sprite.png') -64px -192px;
+}
+
+div.CHI {
+	background:url('../img/logo_sprite.png') -64px -256px;
+}
+
+div.CIN {
+	background:url('../img/logo_sprite.png') -64px -320px;
+}
+
+div.CLE {
+	background:url('../img/logo_sprite.png') -64px -384px;
+}
+
+div.COL {
+	background:url('../img/logo_sprite.png') -64px -448px;
+}
+
+div.CWS {
+	background:url('../img/logo_sprite.png') -64px -512px;
+}
+
+div.DET {
+	background:url('../img/logo_sprite.png') -64px -576px;
+}
+
+div.HOU {
+	background:url('../img/logo_sprite.png') -64px -640px;
+}
+
+div.KC {
+	background:url('../img/logo_sprite.png') -64px -704px;
+}
+
+div.LAA {
+	background:url('../img/logo_sprite.png') -64px -768px;
+}
+
+div.LAD {
+	background:url('../img/logo_sprite.png') -64px -832px;
+}
+
+div.MIA {
+	background:url('../img/logo_sprite.png') -64px -896px;
+}
+
+div.MIL {
+	background:url('../img/logo_sprite.png') -64px -960px;
+}
+
+div.MIN {
+	background:url('../img/logo_sprite.png') -64px -1024px;
+}
+
+div.NYM {
+	background:url('../img/logo_sprite.png') -64px -1088px;
+}
+
+div.NYY {
+	background:url('../img/logo_sprite.png') -64px -1152px;
+}
+
+div.OAK {
+	background:url('../img/logo_sprite.png') -64px -1216px;
+}
+
+div.PHI {
+	background:url('../img/logo_sprite.png') -64px -1280px;
+}
+
+div.PIT {
+	background:url('../img/logo_sprite.png') -64px -1344px;
+}
+
+div.SD {
+	background:url('../img/logo_sprite.png') -64px -1408px;
+}
+
+div.SEA {
+	background:url('../img/logo_sprite.png') -64px -1472px;
+}
+
+div.SF {
+	background:url('../img/logo_sprite.png') -64px -1536px;
+}
+
+div.STL {
+	background:url('../img/logo_sprite.png') -64px -1600px;
+}
+
+div.TB {
+	background:url('../img/logo_sprite.png') -64px -1664px;
+}
+
+div.TEX {
+	background:url('../img/logo_sprite.png') -64px -1728px;
+}
+
+div.TOR {
+	background:url('../img/logo_sprite.png') -64px -1792px;
+}
+
+div.WSH {
+	background:url('../img/logo_sprite.png') -64px -1856px;
+}
