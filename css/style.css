@@ -15,6 +15,12 @@ div.clearfix {
 	clear: both;
 }
 
+div.meta {
+	border-bottom: 1px solid #CCC;
+	margin: 0px 64px;
+	text-align: center;
+}
+
 div.logo {
 	height: 64px;
 	width: 64px;
