@@ -22,10 +22,12 @@ div.clearfix {
 
 div.meta {
 	border-bottom: 1px solid #CCC;
-	height: 54px;
 	margin: 0px 64px;
-	padding: 8px;
 	text-align: center;
+}
+
+div.date {
+	font-weight: bold;
 }
 
 div.logo {
