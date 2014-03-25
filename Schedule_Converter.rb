@@ -30,12 +30,7 @@ CSV.foreach("Rangers_Schedule.csv", :headers => true) do |row|
 	opponent = row["Opponent"].gsub(/(@|vs. )/, '')
 	date = Date.strptime(row["Date"], "%A, %B %d")
 
-	if !row["Time"].eql?("TBD")
-		time = DateTime.strptime(row["Time"], "%l:%M %p")
-		puts "\t{ 'Date': '#{date.strftime('%F')}', 'Time': '#{time.strftime('%H:%M')}', 'Opponent': '#{teams[opponent]}', 'Opponent_Full': '#{opponent}', 'home': #{home}, 'TV': '#{row['TV']}' },"
-	else
-		puts "\t{ 'Date': '#{date.strftime('%F')}', 'Time': 'TBD', 'Opponent': '#{teams[opponent]}', 'Opponent_Full': '#{opponent}', 'home': #{home}, 'TV': '#{row['TV']}' },"
-	end
+	puts "\t{ 'Date': '#{date.strftime('%F')}', 'Time': '#{row['Time']}', 'Opponent': '#{teams[opponent]}', 'Opponent_Full': '#{opponent}', 'home': #{home}, 'TV': '#{row['TV']}' },"
 end
 
 puts "]"
