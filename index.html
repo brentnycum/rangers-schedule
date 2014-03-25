@@ -9,7 +9,34 @@
 <body ng-controller="RangersScheduleCtrl">
 
 	<div ng-repeat="game in games">
-
+		<div ng-if="game.home">
+			<div class="away">
+				<img src="" alt="" class="{{game.Opponent}}" />
+			</div>
+			<div class="meta">
+				<div class="date">{{game.Date}}</div>
+				<div class="time">{{game.Time}}</div>
+				<div class="tv">{{game.TV}}</div>
+			</div>
+			<div class="home">
+				<img src="" alt="" class="TEX" />
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div ng-if="!game.home">
+			<div class="away">
+				<img src="" alt="" class="TEX" />
+			</div>
+			<div class="meta">
+				<div class="date">{{game.Date}}</div>
+				<div class="time">{{game.Time}}</div>
+				<div class="tv">{{game.TV}}</div>
+			</div>
+			<div class="home">
+				<img src="" alt="" class="{{game.Opponent}}" />
+			</div>
+			<div class="clearfix"></div>
+		</div>
 	</div>
 
 </body>
