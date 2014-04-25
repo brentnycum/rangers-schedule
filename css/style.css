@@ -8,6 +8,10 @@ div {
 	font-size: 16px;
 }
 
+div.previous {
+	display: none;
+}
+
 div.away {
 	float: left;
 }
