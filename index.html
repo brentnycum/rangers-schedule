@@ -9,10 +9,11 @@
 	<link rel="apple-touch-icon" sizes="120x120" href="touch-icon-iphone-retina.png">
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
 	<script src="js/ScheduleController.js"></script>
+	<script src="js/ScheduleFilter.js"></script>
 </head>
 <body ng-controller="RangersScheduleCtrl">
 
-	<div ng-repeat="game in games">
+	<div ng-repeat="game in games" ng:class="{true: 'previous', false: ''}[{{game.Date | previous}}]">
 		<div ng-if="game.home">
 			<div class="away">
 				<div class="logo {{game.Opponent}}"></div>
