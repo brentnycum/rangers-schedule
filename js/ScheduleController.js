@@ -1,4 +1,4 @@
-var rangersScheduleApp = angular.module('rangersScheduleApp', []);
+var rangersScheduleApp = angular.module('rangersScheduleApp', ['RangersScheduleFilter']);
 
 rangersScheduleApp.controller('RangersScheduleCtrl', function ($scope) {
 	$scope.games = [
