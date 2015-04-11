@@ -1,36 +1,40 @@
 require 'csv'
 
 teams = {
-	"Atlanta" => "ATL",
-	"Baltimore" => "BAL",
-	"Boston" => "BOS",
-	"Chi White Sox" => "CWS",
-	"Cleveland" => "CLE",
-	"Colorado" => "COL",
-	"Detroit" => "DET",
-	"Houston" => "HOU",
-	"Kansas City" => "KC",
-	"LA Angels" => "LAA",
-	"Miami" => "MIA",
-	"Minnesota" => "MIN",
-	"NY Mets" => "NYM",
-	"NY Yankees" => "NYY",
-	"Oakland" => "OAK",
-	"Philadelphia" => "PHI",
-	"Seattle" => "SEA",
-	"Tampa Bay" => "TB",
-	"Toronto" => "TOR",
-	"Washington" => "WSH"
+	"Braves" => "ATL",
+	"Orioles" => "BAL",
+	"Red Sox" => "BOS",
+	"White Sox" => "CWS",
+	"Indians" => "CLE",
+	"Rockies" => "COL",
+	"Tigers" => "DET",
+	"Astros" => "HOU",
+	"Royals" => "KC",
+	"Angels" => "LAA",
+	"Marlins" => "MIA",
+	"Twins" => "MIN",
+	"Mets" => "NYM",
+	"Yankees" => "NYY",
+	"Athletics" => "OAK",
+	"Phillies" => "PHI",
+	"Mariners" => "SEA",
+	"Rays" => "TB",
+	"Blue Jays" => "TOR",
+	"Nationals" => "WSH",
+	"Padres" => "SD",
+	"Giants" => "SF",
+	"D-backs" => "ARZ",
+	"Dodgers" => "LAD"
 }
 
 puts "["
 
 CSV.foreach("Rangers_Schedule.csv", :headers => true) do |row|
-	home = (row["Opponent"] =~ /@/) != 0
-	opponent = row["Opponent"].gsub(/(@|vs. )/, '')
-	date = Date.strptime(row["Date"], "%A, %B %d")
+	home = row["Home"]
+	opponent = row["Opponent"]
+	date = DateTime.strptime(row["Date"], "%m/%d/%y %H:%M %p")
 
-	puts "\t{ 'Date': '#{date.strftime('%F')}', 'Time': '#{row['Time']}', 'Opponent': '#{teams[opponent]}', 'Opponent_Full': '#{opponent}', 'home': #{home}, 'TV': '#{row['TV']}' },"
+	puts "\t{ 'Date': '#{date.strftime('%F')}', 'Time': '#{date.strftime('%l:%M %p').strip!}', 'Opponent': '#{teams[opponent]}', 'Opponent_Full': '#{opponent}', 'home': #{home}, 'TV': '#{row['TV']}' },"
 end
 
 puts "]"
