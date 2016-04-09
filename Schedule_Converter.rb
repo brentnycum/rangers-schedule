@@ -39,7 +39,7 @@ CSV.foreach("Rangers_Schedule.csv", :headers => true) do |row|
 	opponent = row["Opponent"]
 	date = DateTime.strptime(row["Date"], "%m/%d/%y %H:%M %p")
 
-	puts "\t{ 'Date': '#{date.strftime('%F')}', 'Time': '#{date.strftime('%l:%M %p').strip!}', 'Opponent': '#{teams[opponent]}', 'Opponent_Full': '#{opponent}', 'home': #{home}, 'TV': '#{row['TV']}' },"
+	puts "\t{ 'Date': '#{date.strftime('%F')}', 'Time': '#{date.strftime(' %l:%M %p').lstrip!}', 'Opponent': '#{teams[opponent]}', 'Opponent_Full': '#{opponent}', 'home': #{home}, 'TV': '#{row['TV']}' },"
 end
 
 puts "]"
