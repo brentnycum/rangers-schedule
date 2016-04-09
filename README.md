@@ -1,10 +1,10 @@
 # Texas Rangers Schedule
 
-The 2014 Texas Rangers schedule in an easy to view format. Made for mobile.
+The 2016 Texas Rangers schedule in an easy to view format. Made for mobile.
 
 ## License
 
-Copyright (c) 2014 Brent Nycum
+Copyright (c) 2016 Brent Nycum
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
