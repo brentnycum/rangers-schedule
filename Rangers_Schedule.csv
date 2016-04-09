@@ -1,163 +1,158 @@
 Date,Opponent,TV,Home
-04/06/15 09:05 PM,Athletics,FSSW,false
-04/07/15 09:05 PM,Athletics,FSSW,false
-04/08/15 09:05 PM,Athletics,FSSW,false
-04/09/15 02:35 PM,Athletics,FSSW,false
-04/10/15 03:05 PM,Astros,FSSW,true
-04/11/15 07:05 PM,Astros,FSSW,true
-04/12/15 02:05 PM,Astros,FSSW,true
-04/13/15 07:05 PM,Angels,FSSW,true
-04/14/15 07:05 PM,Angels,FSSW,true
-04/15/15 01:05 PM,Angels,FSSW,true
-04/17/15 09:10 PM,Mariners,FSSW,false
-04/18/15 08:10 PM,Mariners,FSSW,false
-04/19/15 03:10 PM,Mariners,FSSW,false
-04/21/15 08:40 PM,D-backs,FSSW,false
-04/22/15 08:40 PM,D-backs,FSSW,false
-04/24/15 09:05 PM,Angels,FSSW,false
-04/25/15 08:05 PM,Angels,FSSW,false
-04/26/15 02:35 PM,Angels,FSSW,false
-04/27/15 07:05 PM,Mariners,FSSW,true
-04/28/15 07:05 PM,Mariners,FSSW,true
-04/29/15 07:05 PM,Mariners,FSSW,true
-05/01/15 07:05 PM,Athletics,FSSW,true
-05/02/15 07:05 PM,Athletics,FSSW,true
-05/03/15 02:05 PM,Athletics,FSSW,true
-05/04/15 07:10 PM,Astros,FSSW,false
-05/05/15 07:10 PM,Astros,FSSW,false
-05/06/15 07:10 PM,Astros,FSSW,false
-05/07/15 06:10 PM,Rays,FSSW,false
-05/08/15 06:10 PM,Rays,FSSW,false
-05/09/15 05:10 PM,Rays,FSSW,false
-05/10/15 12:10 PM,Rays,FSSW,false
-05/11/15 07:05 PM,Royals,FSSW,true
-05/12/15 07:05 PM,Royals,FSSW,true
-05/13/15 07:05 PM,Royals,FSSW,true
-05/14/15 01:05 PM,Royals,FSSW,true
-05/15/15 07:05 PM,Indians,FSSW,true
-05/16/15 07:05 PM,Indians,FSSW,true
-05/17/15 02:05 PM,Indians,FSSW,true
-05/19/15 06:10 PM,Red Sox,FSSW,false
-05/20/15 06:10 PM,Red Sox,FSSW,false
-05/21/15 06:10 PM,Red Sox,FSSW,false
-05/22/15 06:05 PM,Yankees,FSSW,false
-05/23/15 12:05 PM,Yankees,FSSW,false
-05/24/15 07:05 PM,Yankees,ESPN,false
-05/25/15 03:10 PM,Indians,FSSW,false
-05/26/15 06:10 PM,Indians,FSSW,false
-05/27/15 11:10 AM,Indians,FSSW,false
-05/28/15 07:05 PM,Red Sox,FSSW,true
-05/29/15 07:05 PM,Red Sox,FSSW,true
-05/30/15 06:15 PM,Red Sox,FOX,true
-05/31/15 02:05 PM,Red Sox,FSSW,true
-06/02/15 07:05 PM,White Sox,FSSW,true
-06/03/15 07:05 PM,White Sox,FSSW,true
-06/04/15 07:05 PM,White Sox,FSSW,true
-06/05/15 07:10 PM,Royals,FSSW,false
-06/06/15 01:10 PM,Royals,FS1,false
-06/07/15 01:10 PM,Royals,FSSW,false
-06/09/15 09:05 PM,Athletics,FSSW,false
-06/10/15 09:05 PM,Athletics,FSSW,false
-06/11/15 02:35 PM,Athletics,FSSW,false
-06/12/15 07:05 PM,Twins,FSSW,true
-06/13/15 03:05 PM,Twins,FSSW,true
-06/14/15 02:05 PM,Twins,FSSW,true
-06/15/15 07:05 PM,Dodgers,FSSW,true
-06/16/15 07:05 PM,Dodgers,FSSW,true
-06/17/15 09:10 PM,Dodgers,FSSW,false
-06/18/15 09:10 PM,Dodgers,FSSW,false
-06/19/15 07:10 PM,White Sox,FSSW,false
-06/20/15 01:10 PM,White Sox,FSSW,false
-06/21/15 01:10 PM,White Sox,FSSW,false
-06/23/15 07:05 PM,Athletics,FSSW,true
-06/24/15 07:05 PM,Athletics,FSSW,true
-06/25/15 01:05 PM,Athletics,FSSW,true
-06/26/15 06:07 PM,Blue Jays,FSSW,false
-06/27/15 12:07 PM,Blue Jays,FSSW,false
-06/28/15 12:07 PM,Blue Jays,FSSW,false
-06/29/15 06:05 PM,Orioles,FSSW,false
-06/30/15 06:05 PM,Orioles,FSSW,false
-07/01/15 06:05 PM,Orioles,FSSW,false
-07/02/15 06:05 PM,Orioles,FSSW,false
-07/03/15 07:05 PM,Angels,FSSW,true
-07/04/15 08:05 PM,Angels,FSSW,true
-07/05/15 06:05 PM,Angels,FSSW,true
-07/07/15 07:05 PM,D-backs,FSSW,true
-07/08/15 07:05 PM,D-backs,FSSW,true
-07/10/15 07:05 PM,Padres,FSSW,true
-07/11/15 08:05 PM,Padres,FSSW,true
-07/12/15 02:05 PM,Padres,FSSW,true
-07/17/15 07:10 PM,Astros,FSSW,false
-07/18/15 06:10 PM,Astros,FSSW,false
-07/19/15 01:10 PM,Astros,FSSW,false
-07/20/15 07:40 PM,Rockies,FSSW,false
-07/21/15 07:40 PM,Rockies,FSSW,false
-07/22/15 02:10 PM,Rockies,FSSW,false
-07/24/15 09:05 PM,Angels,FSSW,false
-07/25/15 08:05 PM,Angels,FSSW,false
-07/26/15 02:35 PM,Angels,FSSW,false
-07/27/15 07:05 PM,Yankees,FSSW,true
-07/28/15 07:05 PM,Yankees,FS1,true
-07/29/15 07:05 PM,Yankees,FSSW,true
-07/30/15 07:05 PM,Yankees,FSSW,true
-07/31/15 07:05 PM,Giants,FSSW,true
-08/01/15 07:05 PM,Giants,FSSW,true
-08/02/15 02:05 PM,Giants,FSSW,true
-08/03/15 07:05 PM,Astros,FSSW,true
-08/04/15 07:05 PM,Astros,FSSW,true
-08/05/15 07:05 PM,Astros,FSSW,true
-08/07/15 09:10 PM,Mariners,FSSW,false
-08/08/15 03:10 PM,Mariners,FSSW,false
-08/09/15 03:10 PM,Mariners,FSSW,false
-08/11/15 07:10 PM,Twins,FSSW,false
-08/12/15 07:10 PM,Twins,FSSW,false
-08/13/15 12:10 PM,Twins,FSSW,false
-08/14/15 07:05 PM,Rays,FSSW,true
-08/15/15 07:05 PM,Rays,FSSW,true
-08/16/15 02:05 PM,Rays,FSSW,true
-08/17/15 07:05 PM,Mariners,FSSW,true
-08/18/15 07:05 PM,Mariners,FSSW,true
-08/19/15 01:05 PM,Mariners,FSSW,true
-08/20/15 06:08 PM,Tigers,FSSW,false
-08/21/15 06:08 PM,Tigers,FSSW,false
-08/22/15 06:08 PM,Tigers,FS1,false
-08/23/15 12:08 PM,Tigers,FSSW,false
-08/25/15 07:05 PM,Blue Jays,FSSW,true
-08/26/15 07:05 PM,Blue Jays,FSSW,true
-08/27/15 01:05 PM,Blue Jays,FSSW,true
-08/28/15 07:05 PM,Orioles,FSSW,true
-08/29/15 07:05 PM,Orioles,FSSW,true
-08/30/15 02:05 PM,Orioles,FSSW,true
-08/31/15 09:10 PM,Padres,FSSW,false
-09/01/15 09:10 PM,Padres,FSSW,false
-09/02/15 09:10 PM,Padres,FSSW,false
-09/04/15 09:05 PM,Angels,FSSW,false
-09/05/15 08:05 PM,Angels,FSSW,false
-09/06/15 02:35 PM,Angels,FSSW,false
-09/07/15 05:40 PM,Mariners,FSSW,false
-09/08/15 09:10 PM,Mariners,FSSW,false
-09/09/15 09:10 PM,Mariners,FSSW,false
-09/10/15 02:40 PM,Mariners,FSSW,false
-09/11/15 07:05 PM,Athletics,FSSW,true
-09/12/15 07:05 PM,Athletics,FSSW,true
-09/13/15 02:05 PM,Athletics,FSSW,true
-09/14/15 07:05 PM,Astros,FSSW,true
-09/15/15 07:05 PM,Astros,FSSW,true
-09/16/15 07:05 PM,Astros,FSSW,true
-09/17/15 07:05 PM,Astros,FSSW,true
-09/18/15 07:05 PM,Mariners,FSSW,true
-09/19/15 07:05 PM,Mariners,FSSW,true
-09/20/15 02:05 PM,Mariners,FSSW,true
-09/22/15 09:05 PM,Athletics,FSSW,false
-09/23/15 09:05 PM,Athletics,FSSW,false
-09/24/15 02:35 PM,Athletics,FSSW,false
-09/25/15 07:10 PM,Astros,FSSW,false
-09/26/15 06:10 PM,Astros,FSSW,false
-09/27/15 01:10 PM,Astros,FSSW,false
-09/28/15 07:05 PM,Tigers,FSSW,true
-09/29/15 07:05 PM,Tigers,FSSW,true
-09/30/15 07:05 PM,Tigers,FSSW,true
-10/01/15 07:05 PM,Angels,FSSW,true
-10/02/15 07:05 PM,Angels,FSSW,true
-10/03/15 07:05 PM,Angels,FSSW,true
-10/04/15 02:05 PM,Angels,FSSW,true
+04/09/16 08:05 PM,Angels,FSSW,false
+04/10/16 02:35 PM,Angels,FSSW,false
+04/11/16 09:10 PM,Mariners,FSSW,false
+04/12/16 09:10 PM,Mariners,FSSW,false
+04/13/16 02:40 PM,Mariners,FSSW,false
+04/14/16 07:05 PM,Orioles,FSSW,false
+04/15/16 07:05 PM,Orioles,FSSW,false
+04/16/16 07:05 PM,Orioles,FSSW,false
+04/17/16 02:05 PM,Orioles,FSSW,false
+04/19/16 07:05 PM,Astros,FSSW,false
+04/20/16 07:05 PM,Astros,FSSW,false
+04/21/16 07:05 PM,Astros,FSSW,false
+04/22/16 07:10 PM,White Sox,FSSW,false
+04/23/16 01:10 PM,White Sox,FSSW,false
+04/24/16 01:10 PM,White Sox,FSSW,false
+04/25/16 07:05 PM,Yankees,FSSW,false
+04/26/16 07:05 PM,Yankees,FSSW,false
+04/27/16 07:05 PM,Yankees,FSSW,false
+04/29/16 07:05 PM,Angels,FSSW,false
+04/30/16 07:05 PM,Angels,FSSW,false
+05/01/16 02:05 PM,Angels,FSSW,false
+05/02/16 06:07 PM,Blue Jays,FSSW,false
+05/03/16 06:07 PM,Blue Jays,FSSW,false
+05/04/16 06:07 PM,Blue Jays,FSSW,false
+05/05/16 06:07 PM,Blue Jays,FSSW,false
+05/06/16 06:10 PM,Tigers,FSSW,false
+05/07/16 12:10 PM,Tigers,FS1,false
+05/08/16 12:10 PM,Tigers,FSSW,false
+05/09/16 07:05 PM,White Sox,FSSW,false
+05/10/16 07:05 PM,White Sox,FSSW,false
+05/11/16 01:05 PM,White Sox,FSSW,false
+05/13/16 07:05 PM,Blue Jays,FSSW,false
+05/14/16 07:05 PM,Blue Jays,FSSW,false
+05/15/16 02:05 PM,Blue Jays,FSSW,false
+05/16/16 09:05 PM,Athletics,FSSW,false
+05/17/16 09:05 PM,Athletics,FSSW,false
+05/18/16 02:35 PM,Athletics,FSSW,false
+05/20/16 07:10 PM,Astros,FSSW,false
+05/21/16 06:15 PM,Astros,FOX,false
+05/22/16 01:10 PM,Astros,FSSW,false
+05/23/16 07:05 PM,Angels,FS1,false
+05/24/16 07:05 PM,Angels,FSSW,false
+05/25/16 01:05 PM,Angels,FSSW,false
+05/27/16 07:05 PM,Pirates,FSSW,false
+05/28/16 06:15 PM,Pirates,FOX,false
+05/29/16 02:05 PM,Pirates,FSSW,false
+05/30/16 05:10 PM,Indians,FSSW,false
+05/31/16 05:10 PM,Indians,FSSW,false
+06/01/16 05:10 PM,Indians,FSSW,false
+06/03/16 07:05 PM,Mariners,FSSW,false
+06/04/16 08:05 PM,Mariners,FSSW,false
+06/05/16 02:05 PM,Mariners,FSSW,false
+06/06/16 07:05 PM,Astros,FSSW,false
+06/07/16 07:05 PM,Astros,FSSW,false
+06/08/16 07:05 PM,Astros,FSSW,false
+06/09/16 01:05 PM,Astros,FSSW,false
+06/10/16 09:10 PM,Mariners,FSSW,false
+06/11/16 09:10 PM,Mariners,FSSW,false
+06/12/16 03:10 PM,Mariners,FSSW,false
+06/13/16 09:05 PM,Athletics,FSSW,false
+06/14/16 09:05 PM,Athletics,FSSW,false
+06/15/16 09:05 PM,Athletics,FSSW,false
+06/16/16 02:35 PM,Athletics,FSSW,false
+06/17/16 07:15 PM,Cardinals,FSSW,false
+06/18/16 03:15 PM,Cardinals,FS1,false
+06/19/16 01:15 PM,Cardinals,FSSW,false
+06/21/16 07:05 PM,Reds,FSSW,false
+06/22/16 07:05 PM,Reds,FSSW,false
+06/24/16 07:05 PM,Red Sox,FSSW,false
+06/25/16 08:20 PM,Red Sox,FSSW,false
+06/26/16 02:05 PM,Red Sox,FSSW,false
+06/27/16 06:05 PM,Yankees,FSSW,false
+06/28/16 06:05 PM,Yankees,FSSW,false
+06/29/16 06:05 PM,Yankees,FSSW,false
+06/30/16 12:05 PM,Yankees,FSSW,false
+07/01/16 07:10 PM,Twins,FSSW,false
+07/02/16 01:10 PM,Twins,FSSW,false
+07/03/16 01:10 PM,Twins,FSSW,false
+07/04/16 12:35 PM,Red Sox,FSSW,false
+07/05/16 06:10 PM,Red Sox,FSSW,false
+07/06/16 06:10 PM,Red Sox,FSSW,false
+07/07/16 07:05 PM,Twins,FSSW,false
+07/08/16 07:05 PM,Twins,FSSW,false
+07/09/16 08:05 PM,Twins,FSSW,false
+07/10/16 02:05 PM,Twins,FSSW,false
+07/15/16 01:20 PM,Cubs,FSSW,false
+07/16/16 01:20 PM,Cubs,FSSW,false
+07/17/16 01:20 PM,Cubs,FSSW,false
+07/18/16 09:05 PM,Angels,FSSW,false
+07/19/16 09:05 PM,Angels,FSSW,false
+07/20/16 09:05 PM,Angels,FSSW,false
+07/22/16 07:15 PM,Royals,FSSW,false
+07/23/16 06:15 PM,Royals,FS1,false
+07/24/16 01:15 PM,Royals,FSSW,false
+07/25/16 07:05 PM,Athletics,FSSW,false
+07/26/16 07:05 PM,Athletics,FSSW,false
+07/27/16 07:05 PM,Athletics,FSSW,false
+07/28/16 07:05 PM,Royals,FSSW,false
+07/29/16 07:05 PM,Royals,FSSW,false
+07/30/16 07:05 PM,Royals,FSSW,false
+07/31/16 02:05 PM,Royals,FSSW,false
+08/02/16 06:05 PM,Orioles,FSSW,false
+08/03/16 06:05 PM,Orioles,FSSW,false
+08/04/16 06:05 PM,Orioles,FSSW,false
+08/05/16 07:10 PM,Astros,FSSW,false
+08/06/16 06:10 PM,Astros,FSSW,false
+08/07/16 01:10 PM,Astros,FSSW,false
+08/08/16 07:40 PM,Rockies,FSSW,false
+08/09/16 02:10 PM,Rockies,FSSW,false
+08/10/16 07:05 PM,Rockies,FSSW,false
+08/11/16 01:05 PM,Rockies,FSSW,false
+08/12/16 07:05 PM,Tigers,FSSW,false
+08/13/16 07:05 PM,Tigers,FSSW,false
+08/14/16 02:05 PM,Tigers,FSSW,false
+08/15/16 07:05 PM,Athletics,FSSW,false
+08/16/16 07:05 PM,Athletics,FSSW,false
+08/17/16 07:05 PM,Athletics,FSSW,false
+08/19/16 06:10 PM,Rays,FSSW,false
+08/20/16 05:10 PM,Rays,FSSW,false
+08/21/16 12:10 PM,Rays,FSSW,false
+08/23/16 06:10 PM,Reds,FSSW,false
+08/24/16 06:10 PM,Reds,FSSW,false
+08/25/16 07:05 PM,Indians,FSSW,false
+08/26/16 07:05 PM,Indians,FSSW,false
+08/27/16 07:05 PM,Indians,FSSW,false
+08/28/16 02:05 PM,Indians,FSSW,false
+08/29/16 07:05 PM,Mariners,FSSW,false
+08/30/16 07:05 PM,Mariners,FSSW,false
+08/31/16 01:05 PM,Mariners,FSSW,false
+09/02/16 07:05 PM,Astros,FSSW,false
+09/03/16 03:05 PM,Astros,FSSW,false
+09/04/16 02:05 PM,Astros,FSSW,false
+09/05/16 03:10 PM,Mariners,FSSW,false
+09/06/16 09:10 PM,Mariners,FSSW,false
+09/07/16 09:10 PM,Mariners,FSSW,false
+09/08/16 09:10 PM,Mariners,FSSW,false
+09/09/16 09:05 PM,Angels,FSSW,false
+09/10/16 08:05 PM,Angels,FSSW,false
+09/11/16 12:00 PM,Angels,FSSW,false
+09/12/16 07:10 PM,Astros,FSSW,false
+09/13/16 07:10 PM,Astros,FSSW,false
+09/14/16 07:10 PM,Astros,FSSW,false
+09/16/16 07:05 PM,Athletics,FSSW,false
+09/17/16 07:05 PM,Athletics,FSSW,false
+09/18/16 02:05 PM,Athletics,FSSW,false
+09/19/16 07:05 PM,Angels,FSSW,false
+09/20/16 07:05 PM,Angels,FSSW,false
+09/21/16 07:05 PM,Angels,FSSW,false
+09/23/16 08:35 PM,Athletics,FSSW,false
+09/24/16 03:05 PM,Athletics,FSSW,false
+09/25/16 03:05 PM,Athletics,FSSW,false
+09/26/16 07:05 PM,Brewers,FSSW,false
+09/27/16 07:05 PM,Brewers,FSSW,false
+09/28/16 07:05 PM,Brewers,FSSW,false
+09/30/16 07:05 PM,Rays,FSSW,false
+10/01/16 07:05 PM,Rays,FSSW,false
+10/02/16 02:05 PM,Rays,FSSW,false
