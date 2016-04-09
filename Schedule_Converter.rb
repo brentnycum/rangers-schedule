@@ -24,7 +24,12 @@ teams = {
 	"Padres" => "SD",
 	"Giants" => "SF",
 	"D-backs" => "ARZ",
-	"Dodgers" => "LAD"
+	"Dodgers" => "LAD",
+	"Pirates" => "PIT",
+	"Brewers" => "MIL",
+	"Reds" => "CIN",
+	"Cubs" => "CHI",
+	"Cardinals" => "STL"
 }
 
 puts "["
